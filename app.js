@@ -32,7 +32,7 @@ buttons.forEach(button => {
             updateDisplay(ohyes);
             buttons.forEach(btn => btn.style.display = 'none');
             setTimeout(() => {
-                window.open('/love.html', ', _self');
+                window.open('/-Quieres-ser-mi-san-valentin-/love.html', ', _self');
             }, 3000)
         }
         if (button.textContent === 'NO'){
